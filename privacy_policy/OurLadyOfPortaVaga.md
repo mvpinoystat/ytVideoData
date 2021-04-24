@@ -2,11 +2,11 @@
 
    BrightDayApps built the Our Lady of Porta Vaga app as an Ad Supported app.
    This service is provided by BrightDayApps at no cost to you and is intended for use as is.
-   It does not gather or store any of your personal data. \n \n
+   It does not gather or store any of your personal data.
 
    However, since this is an Ad Supported app, it uses third party services that may
    collect information. Please look at these links below on how
-   <b>Google uses information from sites or apps that uses Google\'s service:</b>
+   #Google uses information from sites or apps that uses Google's service:#
 
    https://policies.google.com/privacy/partners
   
