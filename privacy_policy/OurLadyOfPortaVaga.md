@@ -26,7 +26,8 @@
    privacy policies, or practices
    of any third-party sites or services.
 
-   Changes to This Privacy Policy:
+   Changes to This Privacy Policy:   
+   
    This Privacy Policy may be updated during software updates. Thus you are advised
    to review this policy for any changes. This policy is effective as of 2021-04-18
    
