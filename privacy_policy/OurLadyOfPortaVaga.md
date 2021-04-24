@@ -6,7 +6,7 @@
 
    However, since this is an Ad Supported app, it uses third party services that may
    collect information. Please look at these links below on how
-   #Google uses information from sites or apps that uses Google's service:#
+   Google uses information from sites or apps that uses Google's service:
 
    https://policies.google.com/privacy/partners
   
